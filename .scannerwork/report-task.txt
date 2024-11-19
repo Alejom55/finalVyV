@@ -1,0 +1,6 @@
+projectKey=manim4
+serverUrl=http://localhost:32769
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:32769/dashboard?id=manim4
+ceTaskId=1cf7adc3-120b-4814-8b54-7fe8066cc930
+ceTaskUrl=http://localhost:32769/api/ce/task?id=1cf7adc3-120b-4814-8b54-7fe8066cc930
